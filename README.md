@@ -17,6 +17,5 @@ O objetivo deste projeto é oferecer uma representação visual e interativa do 
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
 
